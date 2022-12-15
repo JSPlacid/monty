@@ -1,7 +1,6 @@
 /*
  * File name:   monty_free.c
- * Authors:     Luis Miguel Vargas
- *              Robinson Montes
+ * Author:	Olusegun Ojo
  */
 
 #include "monty.h"

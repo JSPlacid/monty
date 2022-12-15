@@ -1,7 +1,6 @@
 /*
- * File name: errors.c
- * Authors:	Luis Miguel Vargas
- *		Robinson Montes
+ * File name:	errors.c
+ * Author:	Olusegun Ojo
  */
 
 #include "monty.h"

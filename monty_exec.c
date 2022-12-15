@@ -1,7 +1,6 @@
 /*
  * File name:   monty_exec.c
- * Authors:     Luis Miguel Vargas
- *              Robinson Montes
+ * Authors:	Olusegun Ojo
  */
 
 #include "monty.h"
