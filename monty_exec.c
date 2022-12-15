@@ -1,6 +1,6 @@
 /*
  * File name:   monty_exec.c
- * Authors:	Olusegun Ojo
+ * Author:	Olusegun Ojo
  */
 
 #include "monty.h"
